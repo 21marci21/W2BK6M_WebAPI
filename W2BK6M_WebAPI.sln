@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2BK6M_WebAPI", "W2BK6M_WebAPI\W2BK6M_WebAPI.csproj", "{585C0732-2882-45FD-9A38-5E01E7CD5EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2BK6M_WindowsFormsApp", "W2BK6M_WindowsFormsApp\W2BK6M_WindowsFormsApp.csproj", "{F5993361-5048-4C94-AB96-37033A5C4D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585C0732-2882-45FD-9A38-5E01E7CD5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585C0732-2882-45FD-9A38-5E01E7CD5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585C0732-2882-45FD-9A38-5E01E7CD5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585C0732-2882-45FD-9A38-5E01E7CD5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5993361-5048-4C94-AB96-37033A5C4D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5993361-5048-4C94-AB96-37033A5C4D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5993361-5048-4C94-AB96-37033A5C4D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5993361-5048-4C94-AB96-37033A5C4D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA29F9C-9180-420A-BEF2-21C315C24117}
+	EndGlobalSection
+EndGlobal
